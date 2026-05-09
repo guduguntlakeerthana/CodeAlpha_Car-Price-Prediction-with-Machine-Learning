@@ -1,0 +1,2 @@
+# CodeAlpha_Car-Price-Prediction-with-Machine-Learning
+Car Price Prediction with Machine Learning is a project that predicts car prices using features like brand, mileage, fuel type, and year. Using [Scikit-learn](https://scikit-learn.org?utm_source=chatgpt.com) and [Pandas](https://pandas.pydata.org?utm_source=chatgpt.com), the model analyzes data and estimates car prices using regression techniques.
